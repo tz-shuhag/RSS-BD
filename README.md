@@ -1,6 +1,5 @@
 # RSS Feed for BD
-A list of Rss Feeds for Bangladeshi Users
-In **Bangla** & **English** Language
+A list of Rss Feeds for Bangladeshi Users in **Bangla** & **English** Language
 
 ## Directory
 
