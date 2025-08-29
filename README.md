@@ -26,4 +26,4 @@ The DailyStar | https://www.thedailystar.net/frontpage/rss.xml | https://www.the
 
 To add a youtube channel videos in your YouTube Feed you neeed to add the channel username after the user=
 
-Example: `https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority`
+Example: https://www.youtube.com/feeds/videos.xml?user=`AndroidAuthority`
