@@ -19,6 +19,6 @@ Name | link |
 
 ## **`Youtube Feed`**
 
-To add a youtube channel videos in your YouTube Feed you neeed to add the channel username after the user=____________
+To add a youtube channel videos in your YouTube Feed you neeed to add the channel videos feed link.
 
-Example: `https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority`
+Example: `www.youtube.com/@ShortCircuit/videos`
