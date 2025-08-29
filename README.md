@@ -7,7 +7,6 @@ A list of Rss Feeds for Users in **Bangla** & **English** Language
 
 Source | Primary Feed Url |
 -------|------------------| 
-BD24Live | https://www.bd24live.com/feed |  
 BDNews24 | https://bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true |  
 Bangla News | https://www.banglanews24.com/rss/rss.xml |  
 Jugantor | https://www.jugantor.com/feed/rss.xml |  
