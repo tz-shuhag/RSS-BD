@@ -22,7 +22,7 @@ Source | Primary Feed Url | All Feeds
 -------|------------------|---------- 
 The DailyStar | https://www.thedailystar.net/frontpage/rss.xml | https://www.thedailystar.net/rss
 
-### **`Youtube Feed`**
+## **`Youtube Feed`**
 
 To add a youtube channel videos in your YouTube Feed you neeed to add the channel username after the user=____________
 
