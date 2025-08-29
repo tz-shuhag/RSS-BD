@@ -1,6 +1,6 @@
 # RSS-Feed
-A list of Rss Feeds
-
+A list of Rss Feeds for Bangladeshi Users
+In Bangla & English Language
 
 ## Directory
 
