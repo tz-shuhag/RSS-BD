@@ -6,11 +6,8 @@ A list of Rss Feeds for Users in **Bangla** & **English** Language
 ### **`Bangla`**
 
 Source | Primary Feed Url |
--------|------------------| 
-Bangla News | https://www.banglanews24.com/rss/rss.xml |  
-Jugantor | https://www.jugantor.com/feed/rss.xml |  
-JagoNews24 | https://www.jagonews24.com/rss/rss.xml |  
-kalerkantho | https://www.kalerkantho.com/rss.xml |  
+-------|------------------|
+JagoNews24 | https://www.jagonews24.com/rss/rss.xml | 
 প্রথম আলো | https://www.prothomalo.com/feed/ | 
 
 ### **`English`**
