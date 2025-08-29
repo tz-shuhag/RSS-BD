@@ -5,7 +5,7 @@ A list of Rss Feeds for Users in **Bangla** & **English** Language
 
 ### **`Bangla`**
 
-Source | Primary Feed Url |
+Source | Feed Url |
 -------|------------------|
 JagoNews24 | https://www.jagonews24.com/rss/rss.xml | 
 প্রথম আলো | https://www.prothomalo.com/feed/ | 
@@ -13,9 +13,9 @@ JagoNews24 | https://www.jagonews24.com/rss/rss.xml |
 ### **`English`**
 
 
-Source | Primary Feed Url | All Feeds 
--------|------------------|---------- 
-The DailyStar | https://www.thedailystar.net/frontpage/rss.xml | https://www.thedailystar.net/rss
+Source | Feed Url |
+-------|------------------|
+Name | link |
 
 ## **`Youtube Feed`**
 
