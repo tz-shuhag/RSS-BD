@@ -1,9 +1,6 @@
 # RSS Feed for BD
 A list of Rss Feeds for Bangladeshi Users
-In Bangla & English Language
-## Motivation
-
-To create a feed for users in Bangladesh so that they can easily naviagte the news.
+In **Bangla** & **English** Language
 
 ## Directory
 
