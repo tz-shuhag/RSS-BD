@@ -21,3 +21,9 @@ kalerkantho | https://www.kalerkantho.com/rss.xml |
 Source | Primary Feed Url | All Feeds 
 -------|------------------|---------- 
 The DailyStar | https://www.thedailystar.net/frontpage/rss.xml | https://www.thedailystar.net/rss
+
+### **`Youtube Feed`**
+
+To add a youtube channel videos in your YouTube Feed you neeed to add the channel username after the user=
+
+Example: `https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority`
