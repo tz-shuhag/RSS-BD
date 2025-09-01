@@ -8,7 +8,10 @@ A list of Rss Feeds for Users in **Bangla** & **English** Language
 Source | Feed Url |
 -------|------------------|
 JagoNews24 | https://www.jagonews24.com/rss/rss.xml | 
-প্রথম আলো | https://www.prothomalo.com/feed/ | 
+প্রথম আলো | https://www.prothomalo.com/feed/ |
+Kaler Kantho | https://www.kalerkantho.com/rss.xml |
+
+
 
 ### **`English`**
 
