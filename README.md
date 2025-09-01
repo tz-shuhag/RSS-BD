@@ -15,7 +15,7 @@ JagoNews24 | https://www.jagonews24.com/rss/rss.xml |
 
 Source | Feed Url |
 -------|------------------|
-Name | link |
+The DailyStar | https://newsindex.fahadahammed.com/feed/get_feed_data/thedailystar/feed.xml?ref=fahadahammed.com |
 
 ## **`Youtube Feed`**
 
